@@ -2,13 +2,7 @@
 #### Face Mask Detection Based Door Lock System with Raspberry Pi and Tensorflow Lite
 
 # Project Description: 
-For building face mask based door system, I used machine learning model using Tensorflow Lite in python language. After building model I used OpenCV to detect whether a person is wearing a mask or not in real time. This system contains Three devices. They are: servo, camera(webcam), and Raspberry Pi. I used Raspberry Pi to control servo, and camera. If someone appears in front of the entrance wearing a mask properly, covering both their mouth and nose, then they will be let in. But if someone appears without a mask then they will be denied entry. This versatile system could be used with variety of entrances with different locking system. the image of demo working project is given below:
-
-
-
-![image](https://user-images.githubusercontent.com/42768952/136710014-dbc416f6-fb1a-4d56-86ea-39deeefe1cfc.png)
-
-
+For building face mask based door system, I used machine learning model using Tensorflow Lite in python language. After building model I used OpenCV to detect whether a person is wearing a mask or not in real time. This system contains Three devices. They are: servo, camera(webcam), and Raspberry Pi. I used Raspberry Pi to control servo, and camera. If someone appears in front of the entrance wearing a mask properly, covering both their mouth and nose, then they will be let in. But if someone appears without a mask then they will be denied entry. This versatile system could be used with variety of entrances with different locking system. 
 
 # How to run the project
 
